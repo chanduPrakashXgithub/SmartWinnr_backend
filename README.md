@@ -2,7 +2,6 @@
 
 A production-ready, full-featured real-time chat application built with the MERN stack and Socket.IO. Similar to Slack, WhatsApp, and Microsoft Teams, this application provides instant messaging capabilities with modern features and a responsive design.
 
-![Chat Application](https://via.placeholder.com/800x400?text=Chat+Application+Screenshot)
 
 ## 🌟 Features
 
@@ -344,27 +343,31 @@ concurrently "cd server && npm run dev" "cd client && npm run dev"
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./screenshots/login.png)
+<img width="1407" height="918" alt="image" src="https://github.com/user-attachments/assets/d884fe0b-9bc7-408b-bb15-6557ece8eafa" />
 
 ---
 
 ### 📝 Register Page
-![Register Page](./screenshots/register.png)
+<img width="1407" height="918" alt="image" src="https://github.com/user-attachments/assets/80d64631-4807-4b15-b027-2d69fb97aa96" />
+
 
 ---
 
 ### 💻 Chat Interface (Desktop)
-![Chat Desktop](./screenshots/chat-desktop.png)
+<img width="1898" height="897" alt="image" src="https://github.com/user-attachments/assets/b87c04fa-15c6-4cee-88f0-77e73fcecbe1" />
+
 
 ---
 
 ### 📎 Sending Media in Chat
-![Sending Media](./screenshots/chatting_sending_media.png)
+<img width="1913" height="899" alt="image" src="https://github.com/user-attachments/assets/c6a8afd4-76ed-451b-ae18-53a2b10a8601" />
+
 
 ---
 
 ### 👥 Group Chat
-![Group Chat](./screenshots/group-chat.png)
+<img width="1906" height="886" alt="image" src="https://github.com/user-attachments/assets/b9b79ef9-1c08-46e6-ab7e-1d2f7dd1db8e" />
+
 
 
 ## 🧪 Testing
